@@ -1,0 +1,20 @@
+programa {
+  funcao inicio() {
+    inteiro num,i, resultado
+     escreva("digite seu numero de 1 a 10 para ver tabuada")
+     leia(num)
+     se  (num >=1 e num <=10 )
+
+    para (i= 1; i <=10; i++)
+    
+    resultado =num * i 
+      escreva( num, "x", i, "=", resultado, "n")
+
+      
+    
+  }
+}
+senao 
+{
+  escreva("error, digite outro numero")
+}
