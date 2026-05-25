@@ -1,4 +1,4 @@
-programa {
+programa 
   funcao inicio() {
    inteiro num1, num2, soma
 
@@ -8,7 +8,7 @@ programa {
    leia(num2)
 
    soma = num1 + num2
-   escreva ("A soma entre ", num1, " e ", num2, " é: ", soma)
+   escreva ("A soma entre ", num1, " e ", num2, " é
 
   }
 }
